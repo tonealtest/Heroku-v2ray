@@ -17,12 +17,12 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/aa",
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/tonealtest/Heroku-v2ray",
+  "repository": "https://github.com/tonealtest/Heroku-v2ray",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
