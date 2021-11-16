@@ -1,6 +1,5 @@
 server {
-  listen 80;
-	listen 443 default_server;
+  listen 443 default_server;
 
   location / {
     root   /usr/share/nginx/html/index;
