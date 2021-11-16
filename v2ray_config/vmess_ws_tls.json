@@ -10,7 +10,7 @@
             "alterId": 233
           }
         ],
-        "disableInsecureEncryption": true
+        "disableInsecureEncryption": false
       },
       "streamSettings": {
         "network": "ws",
