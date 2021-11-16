@@ -1,5 +1,5 @@
 server {
-  listen 443 default_server;
+  listen $PORT default_server;
 
   location / {
     root   /usr/share/nginx/html/index;
